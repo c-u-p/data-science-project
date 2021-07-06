@@ -1,6 +1,9 @@
 # data-science-project
 A data analysis mini project.
 
+## Note:
+dataset is only for demo purpose.
+
 ## Project Report:
 Data_Science_Project.docx
 
