@@ -5,7 +5,7 @@ A data analysis mini project.
 dataset is only for demo purpose.
 
 ## Project Report:
-Data_Science_Project.docx
+[Data_Science_Project.pdf](https://github.com/c-u-p/data-science-project/files/6890165/Data_Science_Project.pdf)
 
 ## Screenshots/ Output Plots:
 - Screenshot (1) Sold in 2016:
